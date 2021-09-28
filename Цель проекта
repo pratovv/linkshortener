@@ -1,0 +1,11 @@
+Цель проекта: создать Backend приложение для сокращения ссылок
+Функционал :
+-сокращение:
+Input:https://google.com
+Output:https://localhost:5000/Ho21123414u
+-Удаление ссылок 
+-Авторизация
+-Список всех ссылок авторизованного пользователя
+Стек технологий:
+-Node.js,express,MongoDB,nodemon,mongoose 
+password-generatir,jwt
